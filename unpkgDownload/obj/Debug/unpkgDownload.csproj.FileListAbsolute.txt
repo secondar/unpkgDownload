@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\bak\unpkgDownload\unpkgDownload\bin\Debug\unpkgDownload.exe.config
+C:\Users\Administrator\Desktop\bak\unpkgDownload\unpkgDownload\bin\Debug\unpkgDownload.exe
+C:\Users\Administrator\Desktop\bak\unpkgDownload\unpkgDownload\bin\Debug\unpkgDownload.pdb
+C:\Users\Administrator\Desktop\bak\unpkgDownload\unpkgDownload\obj\Debug\unpkgDownload.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\bak\unpkgDownload\unpkgDownload\obj\Debug\unpkgDownload.main.resources
+C:\Users\Administrator\Desktop\bak\unpkgDownload\unpkgDownload\obj\Debug\unpkgDownload.Properties.Resources.resources
+C:\Users\Administrator\Desktop\bak\unpkgDownload\unpkgDownload\obj\Debug\unpkgDownload.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\bak\unpkgDownload\unpkgDownload\obj\Debug\unpkgDownload.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\bak\unpkgDownload\unpkgDownload\obj\Debug\unpkgDownload.exe
+C:\Users\Administrator\Desktop\bak\unpkgDownload\unpkgDownload\obj\Debug\unpkgDownload.pdb
+C:\Users\Administrator\Desktop\bak\unpkgDownload\unpkgDownload\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\bak\unpkgDownload\unpkgDownload\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\bak\unpkgDownload\unpkgDownload\obj\Debug\unpkgDownload.csproj.CopyComplete

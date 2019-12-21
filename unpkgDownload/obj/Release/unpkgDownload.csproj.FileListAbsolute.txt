@@ -1,0 +1,12 @@
+C:\Users\lanyu\Desktop\php\unpkgDownload\unpkgDownload\bin\Release\Newtonsoft.Json.dll
+C:\Users\lanyu\Desktop\php\unpkgDownload\unpkgDownload\bin\Release\Newtonsoft.Json.xml
+C:\Users\lanyu\Desktop\php\unpkgDownload\unpkgDownload\obj\Release\unpkgDownload.csprojAssemblyReference.cache
+C:\Users\lanyu\Desktop\php\unpkgDownload\unpkgDownload\obj\Release\unpkgDownload.main.resources
+C:\Users\lanyu\Desktop\php\unpkgDownload\unpkgDownload\obj\Release\unpkgDownload.Properties.Resources.resources
+C:\Users\lanyu\Desktop\php\unpkgDownload\unpkgDownload\obj\Release\unpkgDownload.csproj.GenerateResource.cache
+C:\Users\lanyu\Desktop\php\unpkgDownload\unpkgDownload\obj\Release\unpkgDownload.csproj.CopyComplete
+C:\Users\lanyu\Desktop\php\unpkgDownload\unpkgDownload\bin\Release\unpkgDownload - www.bugquit.com.exe.config
+C:\Users\lanyu\Desktop\php\unpkgDownload\unpkgDownload\bin\Release\unpkgDownload - www.bugquit.com.exe
+C:\Users\lanyu\Desktop\php\unpkgDownload\unpkgDownload\bin\Release\unpkgDownload - www.bugquit.com.pdb
+C:\Users\lanyu\Desktop\php\unpkgDownload\unpkgDownload\obj\Release\unpkgDownload - www.bugquit.com.exe
+C:\Users\lanyu\Desktop\php\unpkgDownload\unpkgDownload\obj\Release\unpkgDownload - www.bugquit.com.pdb
