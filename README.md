@@ -1,1 +1,1 @@
-#详细www.bugquit.com
+#详细 https://www.bugquit.com/518.html
